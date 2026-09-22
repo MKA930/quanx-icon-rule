@@ -46,3 +46,7 @@ https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/scripts/wangluoxin
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=QuanX-icon-rule/QuanX-icon-rule&type=date&legend=top-left)](https://www.star-history.com/#QuanX-icon-rule/QuanX-icon-rule&type=date&legend=top-left)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
